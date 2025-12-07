@@ -3,6 +3,15 @@ venv0/
 venv1/
 other/
 data/
+paper.aux
+paper.fdb_latexmk
+paper.fls
+paper.lof
+paper.log
+paper.lot
+paper.out
+paper.synctex.gz
+paper.toc
 __pycache__/
 *.pyc
 *.pyo
