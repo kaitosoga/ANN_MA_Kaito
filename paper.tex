@@ -59,33 +59,34 @@
 \makeatletter
 
 \renewcommand{\maketitle}{%
-  \begin{center}
-    \color{black}
-    \rule{\textwidth}{1.5pt} \\[0.5em]
-    {\LARGE \textbf{Beyond Correlation: How the Explainability of Artificial Neural Networks Misaligns with Human Cognition}}\\[0.3em]
-    \rule{\textwidth}{0.5pt}\\[2em]
-
-    \begin{tabular}[t]{c@{\hskip 3cm}c}
-      \textbf{Kaito Soga} & \textbf{Supervisor: Lesther Zulauf} \\
-      \texttt{e249378@edu.sbl.ch} & \texttt{lesther.zulauf@sbl.ch} \\
-      \texttt{M4d} & ~
-    \end{tabular}\\[2em]
-
-    \textbf{Maturaarbeit 2025/26} \\ 
-    \textbf{Gymnasium Münchenstein} \\[0.5em]
-    \textbf{October 21, 2025} \\[5em]
-
-    \begin{minipage}{0.8\textwidth}
     \begin{center}
-    \begin{abstract}
-        In recent years, explainable artificial intelligence (XAI) has gained increasing importance and attention in research \cite{xai_survey_2020,xai_survey_2024,xai_survey_meta_2023}. Its goal is to provide humans with a better understanding of the internal decision-making processes of black-box models \cite{blackbox_review_2023,molnar2024}, i.e., machine learning (ML) systems, typically artificial neural networks (ANNs), whose complexity makes them difficult to intuitively understand \cite{goodfellow2016,molnar2024}. However, while the field of ML has advanced rapidly in recent decades, XAI has seen comparatively few fundamental breakthroughs \cite{proxy_tasks2020,xai_survey_meta_2023}.
-
-        In this paper, I investigate the root causes of the challenges and limitations faced in explainability and identify the intrinsic properties of ANNs that constrain explanations at both the mathematical and conceptual level. To this end, I implement a set of experiments designed as case studies to demonstrate and visualise the implications of my theoretical findings. I focus on feedforward networks (FFNs) applied to optical character recognition (OCR) as a representative and interpretable task. Because FFNs are embedded in many modern architectures \cite{gerber2025,touvron2021}, the limitations observed herein remain relevant in contemporary AI systems \cite{blackbox_review_2023,xai_survey_2024}.
-
-        Drawing on related insights from cognitive science \cite{baars1988,human_cog_gap2022}, I highlight key mismatches between FFNs and human reasoning \cite{felin2024,human_cog_gap2022}, most notably, correlation in place of causation and arbitrary composition in place of structured concepts. Whereas human reasoning is characterised by causal inference and compositional structure \cite{felin2024,human_cog_gap2022}, FFNs rely on distributed, correlation-based representations \cite{erhan2010,goodfellow2016}. I conclude that this misalignment with human cognition creates a fundamental limitation to the explainability of modern AI.
-    \end{abstract}
-    \end{center}
-    \end{minipage}
+        \vspace*{2cm}
+        \color{black}
+        \rule{\textwidth}{1.5pt} \\[0.5em]
+        {\LARGE \textbf{Beyond Correlation: How the Explainability of Artificial Neural Networks Misaligns with Human Cognition}}\\[0.3em]
+        \rule{\textwidth}{0.5pt}\\[2em]
+    
+        \begin{tabular}[t]{c@{\hskip 3cm}c}
+            \textbf{Kaito Soga} & \textbf{Supervisor: Lesther Zulauf} \\
+            \texttt{e249378@edu.sbl.ch} & \texttt{lesther.zulauf@sbl.ch} \\
+            \texttt{M4d} & ~
+        \end{tabular}\\[2em]
+    
+        \textbf{Maturaarbeit 2025/26} \\ 
+        \textbf{Gymnasium Münchenstein} \\[0.5em]
+        \textbf{October 21, 2025} \\[5em]
+    
+        \begin{minipage}{0.8\textwidth}
+        \begin{center}
+        \begin{abstract}
+            In recent years, explainable artificial intelligence (XAI) has gained increasing importance and attention in research \cite{xai_survey_2020,xai_survey_2024,xai_survey_meta_2023}. Its goal is to provide humans with a better understanding of the internal decision-making processes of black-box models \cite{blackbox_review_2023,molnar2024}, i.e., machine learning (ML) systems, typically artificial neural networks (ANNs), whose complexity makes them difficult to intuitively understand \cite{goodfellow2016,molnar2024}. However, while the field of ML has advanced rapidly in recent decades, XAI has seen comparatively few fundamental breakthroughs \cite{proxy_tasks2020,xai_survey_meta_2023}.
+    
+            In this paper, I investigate the root causes of the challenges and limitations faced in explainability and identify the intrinsic properties of ANNs that constrain explanations at both the mathematical and conceptual level. To this end, I implement a set of experiments designed as case studies to demonstrate and visualise the implications of my theoretical findings. I focus on feedforward networks (FFNs) applied to optical character recognition (OCR) as a representative and interpretable task. Because FFNs are embedded in many modern architectures \cite{gerber2025,touvron2021}, the limitations observed herein remain relevant in contemporary AI systems \cite{blackbox_review_2023,xai_survey_2024}.
+    
+            Drawing on related insights from cognitive science \cite{baars1988,human_cog_gap2022}, I highlight key mismatches between FFNs and human reasoning \cite{felin2024,human_cog_gap2022}, most notably, correlation in place of causation and arbitrary composition in place of structured concepts. Whereas human reasoning is characterised by causal inference and compositional structure \cite{felin2024,human_cog_gap2022}, FFNs rely on distributed, correlation-based representations \cite{erhan2010,goodfellow2016}. I conclude that this misalignment with human cognition creates a fundamental limitation to the explainability of modern AI.
+        \end{abstract}
+        \end{center}
+        \end{minipage}
 
   \end{center}
 }
