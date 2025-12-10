@@ -1,4 +1,4 @@
-### Beyond Correlation: How the Explainability of Artificial Neural Networks Misaligns with Human Cognition:
+### Beyond Correlation: How the Explainability of Artificial Neural Networks Misaligns with Human Cognition
 
 Kaito Soga  
 Betreuung: Lesther Zulauf  
