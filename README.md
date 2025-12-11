@@ -1,7 +1,8 @@
 ### Beyond Correlation: How the Explainability of Artificial Neural Networks Misaligns with Human Cognition:
 
-Kaito Soga (M3d)  
-Betreuung: Lesther Zulauf, Fach: Informatik / Mathematik  
+Kaito Soga  
+Betreuung: Lesther Zulauf  
+Fach: Informatik / Mathematik  
 
 
 Oberthema  
