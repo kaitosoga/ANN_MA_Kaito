@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e070585a-30ba-46c8-8e11-0f4b3857a7a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/01_ffn_mnist_binary.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_ffn_mnist_binary.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_ffn_mnist_full.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02_ffn_mnist_full.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_ffn_mnist_full.pth" beforeDir="false" afterPath="$PROJECT_DIR$/02_ffn_mnist_full.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stored_model_weights_binary/ffn_mnist_binary_8.pth" beforeDir="false" afterPath="$PROJECT_DIR$/stored_model_weights_binary/ffn_mnist_binary_8.pth" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="31BeM8Kmx9CZC46AuRG3XNhpRBs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/kns/Desktop/IN29",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e070585a-30ba-46c8-8e11-0f4b3857a7a0" name="Changes" comment="" />
+      <created>1755001842488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755001842488</updated>
+      <workItem from="1755001844136" duration="5000" />
+      <workItem from="1755003228388" duration="183000" />
+      <workItem from="1755003438040" duration="1000" />
+      <workItem from="1755003874873" duration="358000" />
+      <workItem from="1755004267885" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
